@@ -1,1 +1,1 @@
-This repository contains assignments that were part of COMPSCI689 curriculum
+This repository contains course work that is part of COMPSCI689 curriculum
