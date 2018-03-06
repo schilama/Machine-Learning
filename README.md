@@ -1,1 +1,1 @@
-This repository contains course work that is part of COMPSCI689 curriculum
+This repository contains machine learning (COMPSCI689) course work
